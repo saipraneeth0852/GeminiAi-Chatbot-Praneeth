@@ -20,7 +20,8 @@ This app is built using the Google AI Client SDK, enabling state-of-the-art AI r
 3. Click the "Send" button to generate an AI-powered response.
 4. Experience dynamic, intelligent conversations.
 
-| Apk Download link  | [👆Click Here ](https://github.com/darkdevil3610/GeminiAiChatbot-app/raw/main/apk/android_gemini_ai_chatbot_app-debug.apk) |
+| Apk Download link  | [👆Click Here ](apk/android_gemini_ai_chatbot_app-debug.apk) |
+) |
 
 
 
